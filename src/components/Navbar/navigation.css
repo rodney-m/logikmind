@@ -1,0 +1,15 @@
+/* Navbar */
+
+
+  .logo {
+	height: 40px;
+  }
+  
+  .nav-item {
+	margin: 0 0.5rem;
+  }
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: #333!important;
+	font-weight: 400;
+}

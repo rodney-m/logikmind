@@ -1,0 +1,8 @@
+:root{
+  --orange : #F1602F;
+}
+
+@import url('./components/Navbar/navigation.css');
+
+@import url('./components/Header/header.css');
+

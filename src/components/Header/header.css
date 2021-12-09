@@ -1,0 +1,47 @@
+.header {
+	padding-top: 8rem;
+	padding-bottom: 4em;
+	background: url('../../assets/header-background.jpg') center center no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.header .h1-large {
+	margin-bottom: 1.75rem;
+    text-transform: capitalize!important;
+}
+
+.header .p-large {
+	margin-bottom: 2.25rem;
+}
+
+.header .image-container {
+	margin-top: 5rem;
+}
+
+.header .text-container{
+    text-align: left;
+}
+
+.header #signUpForm {
+ display: flex;
+}
+
+.header #signUpForm {
+    display: flex;
+}
+
+.header #signUpForm .mail-form-container{
+    flex: 1;
+}
+.header #signUpForm .button-container button{
+    height: 100%;
+    margin-left: -5px;
+    z-index: 2;
+    border-radius: 0 10px 10px 0;
+    outline: none;
+    border: none;
+    background-color: #F1602F;
+    color: #fff;
+    padding: 0 1rem;
+}
